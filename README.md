@@ -4,7 +4,7 @@
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page
 
 ## Preview:
-<img src="https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page/blob/main/Product%20landing%20page%20preview.png" width=100% height=100%>
+<img src="https://raw.githubusercontent.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page/main/vegeta%20preview.png" width=100% height=100%>
 
 ## Technologies: 
 * HTML
